@@ -20,6 +20,7 @@ Quick start Guide Tutorial
 
 ### Code
 `code`
-Horizontal Rule	---
+Horizontal Rule
+---
 Link	[title](https://www.example.com)
 Image	![alt text](image.jpg)
